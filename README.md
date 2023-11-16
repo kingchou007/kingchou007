@@ -1,3 +1,6 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
+[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black)]()
+
 ### Hi there 👋
 
 <!--
