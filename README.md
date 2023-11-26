@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-  
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kingchou007/9a1ac4de-bb85-4732-97fc-f67558b029de.png" /></a>
+  <a href=""><img src="https://wakatime.com/share/@kingchou007/9a1ac4de-bb85-4732-97fc-f67558b029de.png" /></a>
 </div>
 
 
