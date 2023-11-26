@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@kingchou007)
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kingchou007/9a1ac4de-bb85-4732-97fc-f67558b029de.png" /></a>
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+  
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kingchou007/9a1ac4de-bb85-4732-97fc-f67558b029de.png" /></a>
 </div>
 
 
