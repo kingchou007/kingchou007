@@ -28,3 +28,6 @@ Here are some ideas to get you started:
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kingchou007/9a1ac4de-bb85-4732-97fc-f67558b029de.png" /></a>
