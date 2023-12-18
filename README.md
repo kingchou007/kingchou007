@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently a graduate student @ Cornell University
 - 📫 How to reach me: jl3485 AT cornell dot edu
-
+<!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@kingchou007)
-
+-->
 
 <div align="center">
   <a href="">
